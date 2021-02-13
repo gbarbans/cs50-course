@@ -3,6 +3,7 @@ description: I don't know yet
 template:
   repo: cs50-template
   name: cs50
+  description: my labs with CS50
 before:
   - type: createIssue
     title: Welcome!
